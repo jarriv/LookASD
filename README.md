@@ -22,4 +22,4 @@ System to assist in the detection of ASD. Focused on children aged 5 to 12 years
   s.login(fromaddr, base64.b64decode("**********").decode("utf-8")) --> Adjust the email password.
 
 
-  [embed]https://github.com/jarriv/LookASD/blob/main/lookASD.pdf[/embed]
+  [embed]https://drive.google.com/file/d/15yzrZRK-u5iLzU4i8yiuSMHIe1uGSw-t/view?usp=sharing[/embed]
