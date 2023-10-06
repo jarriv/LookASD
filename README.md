@@ -20,3 +20,6 @@ System to assist in the detection of ASD. Focused on children aged 5 to 12 years
   s = smtplib.SMTP('smtp.***.edu.br', 587) --> Adjust the SMTP server's name.
   
   s.login(fromaddr, base64.b64decode("**********").decode("utf-8")) --> Adjust the email password.
+
+
+  [embed]https://github.com/jarriv/LookASD/blob/main/lookASD.pdf[/embed]
