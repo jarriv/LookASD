@@ -13,7 +13,7 @@ System to assist in the detection of ASD. Focused on children aged 5 to 12 years
 
 * Lower the SSL security level.
 
-* In the file ../Flask_17_08_2023/Projeto.py, adjust the parameters below:
+* In the file ../Projeto.py, adjust the parameters below:
 
   fromaddr = "@.edu.br" --> Adjust the sender's email address.
   
