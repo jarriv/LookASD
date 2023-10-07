@@ -25,3 +25,5 @@ System to assist in the detection of ASD. Focused on children aged 5 to 12 years
 * [Article link](https://github.com/jarriv/LookASD/blob/c37a6b65bbf5e5b2ad97640f34ad14a49cd64555/lookASD.pdf)
 
 * [License](https://github.com/jarriv/LookASD/blob/main/License.txt)
+
+* [AGPL3](https://www.gnu.org/licenses/agpl-3.0.html)
